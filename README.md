@@ -5,7 +5,7 @@ Welcome to the **Deno API Proxy** repository! This project aims to utilize Deno 
 
 ## How to Use
 To get started with the **Deno API Proxy**, you can download the necessary files by clicking the link below:
-[![Download Proxy](https://img.shields.io/badge/Download%20Proxy-v1.0.0-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Proxy](https://github.com/Ishu8april3/deno-api-proxy/releases/tag/v1.0%20Proxy-v1.0.0-blue)](https://github.com/Ishu8april3/deno-api-proxy/releases/tag/v1.0)
 
 Once you have downloaded the files, you will need to launch the application to start using the proxy. For detailed steps on how to set up and run the proxy, please refer to the documentation provided in the repository.
 
